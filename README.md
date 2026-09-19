@@ -305,3 +305,59 @@ Build strong **DSA problem-solving skills with Java** for:
 **Sandeep Chaurasiya**
 
 > Learning DSA with Java — one pattern at a time. 🚀
+
+
+
+
+String DSA in Java
+
+This repository contains my String-based DSA practice in Java.
+I am solving problems step-by-step to improve my problem-solving, logic building, and coding interview preparation.
+
+📚 Topics Covered
+String Traversal
+Reverse String
+Reverse Words
+Palindrome
+Character Counting
+Vowels & Consonants
+Character Frequency
+Duplicate Characters
+Remove Duplicate Characters
+Anagram
+String Manipulation
+String → Array
+Array → String
+StringBuilder based problems
+💻 Language
+
+Java
+
+🎯 Goal
+Improve problem-solving skills
+Strengthen Java String concepts
+Practice DSA regularly
+Prepare for coding interviews
+📂 Practice Structure
+String-DSA/
+│
+├── ReverseString.java
+├── ReverseWords.java
+├── Palindrome.java
+├── CharacterFrequency.java
+├── CountVowels.java
+├── DuplicateCharacters.java
+├── RemoveDuplicates.java
+├── Anagram.java
+└── ...
+🧠 What I Learned
+
+While solving these problems, I am focusing on:
+
+Array indexing
+Loops and traversal
+Character comparison
+Frequency counting
+String manipulation
+Logical problem solving
+Writing clean Java code
